@@ -6,9 +6,3 @@
 
 
 [琼ICP备2022010208号](https://beian.miit.gov.cn)
-
-<style>
-  .footer {
-    display: none;
-  }
-</style>
